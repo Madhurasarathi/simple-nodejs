@@ -1,0 +1,5 @@
+sudo apt-get install nodejs npm -y 
+sudo make lint
+sudo make lint-fix
+sudo make test
+sudo make test-report
